@@ -1,0 +1,10 @@
+{
+    "name": "eancachi/invoice-status",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Eancachi\\InvoiceStatus\\": "src/"
+        }
+    },
+    "require": {}
+}
